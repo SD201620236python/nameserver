@@ -1,0 +1,8 @@
+README.md
+setup.py
+nameserver.egg-info/PKG-INFO
+nameserver.egg-info/SOURCES.txt
+nameserver.egg-info/dependency_links.txt
+nameserver.egg-info/entry_points.txt
+nameserver.egg-info/requires.txt
+nameserver.egg-info/top_level.txt
